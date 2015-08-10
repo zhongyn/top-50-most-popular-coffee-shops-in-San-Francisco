@@ -1,7 +1,7 @@
 """
 Yelp API v2.0 code.
 
-This program uses the Search API to query for 1000 coffee shops in San Francisco.
+This program uses the Search API to query for coffee shops information in San Francisco.
 The center of the search area is Civic Center Plaza and the radius is 8000 meters.
 The attributes extracted include name, review_count, and rating. They are written to 
 the file "yelp_data.json".
